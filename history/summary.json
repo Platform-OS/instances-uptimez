@@ -5,7 +5,7 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
-    "time": 616
+    "time": 623
   },
   {
     "name": "Marketing page",
@@ -13,7 +13,7 @@
     "slug": "marketing-page",
     "status": "up",
     "uptime": "100.00%",
-    "time": 657
+    "time": 660
   },
   {
     "name": "Examples",
@@ -21,14 +21,14 @@
     "slug": "examples",
     "status": "up",
     "uptime": "100.00%",
-    "time": 503
+    "time": 514
   },
   {
     "name": "Template MVP",
     "url": "https://getmarketplace.co",
     "slug": "template-mvp",
     "status": "up",
-    "uptime": "99.87%",
-    "time": 604
+    "uptime": "99.88%",
+    "time": 599
   }
 ]
