@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 586,
-    "timeWeek": 617,
-    "timeMonth": 610,
-    "timeYear": 610
+    "time": 604,
+    "timeDay": 497,
+    "timeWeek": 580,
+    "timeMonth": 604,
+    "timeYear": 604
   },
   {
     "name": "Marketing page",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 722,
-    "timeWeek": 690,
-    "timeMonth": 667,
-    "timeYear": 667
+    "time": 671,
+    "timeDay": 742,
+    "timeWeek": 697,
+    "timeMonth": 671,
+    "timeYear": 671
   },
   {
     "name": "Examples",
@@ -41,26 +41,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 687,
-    "timeWeek": 571,
-    "timeMonth": 522,
-    "timeYear": 522
+    "time": 521,
+    "timeDay": 498,
+    "timeWeek": 555,
+    "timeMonth": 521,
+    "timeYear": 521
   },
   {
     "name": "Template MVP",
     "url": "https://getmarketplace.co",
     "slug": "template-mvp",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 631,
-    "timeDay": 777,
-    "timeWeek": 611,
-    "timeMonth": 631,
-    "timeYear": 631
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 630,
+    "timeDay": 597,
+    "timeWeek": 613,
+    "timeMonth": 630,
+    "timeYear": 630
   }
 ]
