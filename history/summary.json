@@ -2,6 +2,7 @@
   {
     "name": "Documentation",
     "url": "https://documentation.platformos.com/",
+    "icon": "https://favicons.githubusercontent.com/documentation.platformos.com",
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 535,
-    "timeWeek": 553,
-    "timeMonth": 601,
-    "timeYear": 601
+    "time": 597,
+    "timeDay": 498,
+    "timeWeek": 537,
+    "timeMonth": 597,
+    "timeYear": 597,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketing page",
     "url": "https://www.platformos.com/",
+    "icon": "https://favicons.githubusercontent.com/www.platformos.com",
     "slug": "marketing-page",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 658,
-    "timeWeek": 689,
-    "timeMonth": 670,
-    "timeYear": 670
+    "time": 680,
+    "timeDay": 894,
+    "timeWeek": 715,
+    "timeMonth": 680,
+    "timeYear": 680,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Examples",
     "url": "https://examples.platform-os.com/",
+    "icon": "https://favicons.githubusercontent.com/examples.platform-os.com",
     "slug": "examples",
     "status": "up",
     "uptime": "100.00%",
@@ -41,26 +46,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 534,
-    "timeWeek": 536,
-    "timeMonth": 521,
-    "timeYear": 521
+    "time": 519,
+    "timeDay": 463,
+    "timeWeek": 531,
+    "timeMonth": 519,
+    "timeYear": 519,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Template MVP",
     "url": "https://getmarketplace.co",
+    "icon": "https://favicons.githubusercontent.com/getmarketplace.co",
     "slug": "template-mvp",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 630,
-    "timeDay": 642,
-    "timeWeek": 625,
-    "timeMonth": 630,
-    "timeYear": 630
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 628,
+    "timeDay": 557,
+    "timeWeek": 596,
+    "timeMonth": 628,
+    "timeYear": 628,
+    "dailyMinutesDown": {
+      "2020-12-02": 69,
+      "2020-11-19": 18
+    }
   }
 ]
