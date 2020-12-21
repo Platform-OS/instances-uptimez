@@ -4,36 +4,40 @@
     "url": "https://documentation.platformos.com/",
     "icon": "https://favicons.githubusercontent.com/documentation.platformos.com",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 542,
-    "timeWeek": 648,
-    "timeMonth": 684,
-    "timeYear": 683,
-    "dailyMinutesDown": {}
+    "time": 675,
+    "timeDay": 479,
+    "timeWeek": 619,
+    "timeMonth": 676,
+    "timeYear": 675,
+    "dailyMinutesDown": {
+      "2020-12-21": 0
+    }
   },
   {
     "name": "Marketing page",
     "url": "https://www.platformos.com/",
     "icon": "https://favicons.githubusercontent.com/www.platformos.com",
     "slug": "marketing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 819,
-    "timeWeek": 764,
-    "timeMonth": 796,
-    "timeYear": 782,
-    "dailyMinutesDown": {}
+    "time": 772,
+    "timeDay": 618,
+    "timeWeek": 721,
+    "timeMonth": 784,
+    "timeYear": 772,
+    "dailyMinutesDown": {
+      "2020-12-21": 0
+    }
   },
   {
     "name": "Examples",
