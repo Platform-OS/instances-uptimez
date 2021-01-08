@@ -3,13 +3,15 @@ repo: instances-uptimez
 
 sites:
   - name: Documentation
-    url: https://documentation.platformos.com/
+    url: https://documentation.platformos.com
   - name: Marketing page
-    url: https://www.platformos.com/
+    url: https://www.platformos.com
   - name: Examples
-    url: https://examples.platform-os.com/
+    url: https://examples.platform-os.com
   - name: Template MVP
     url: https://getmarketplace.co
+  - name: Community Site
+    url: https://community.platformos.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
