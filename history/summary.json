@@ -40,18 +40,20 @@
     "url": "https://examples.platform-os.com",
     "icon": "https://favicons.githubusercontent.com/examples.platform-os.com",
     "slug": "examples",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 733,
-    "timeWeek": 515,
-    "timeMonth": 494,
-    "timeYear": 556,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 559,
+    "timeWeek": 499,
+    "timeMonth": 490,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2021-04-26": 0
+    }
   },
   {
     "name": "Template MVP",
