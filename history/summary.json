@@ -147,18 +147,20 @@
     "url": "https://prod01.oregon.platform-os.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.oregon.platform-os.com",
     "slug": "oregon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 307,
-    "timeWeek": 341,
-    "timeMonth": 353,
-    "timeYear": 351,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 5331,
+    "timeWeek": 1593,
+    "timeMonth": 665,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2021-08-31": 0
+    }
   },
   {
     "name": "London",
