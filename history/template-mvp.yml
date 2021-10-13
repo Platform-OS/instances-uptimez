@@ -1,7 +1,7 @@
 url: https://getmarketplace.co
-status: up
-code: 200
-responseTime: 784
-lastUpdated: 2021-10-13T06:09:08.200Z
+status: down
+code: 500
+responseTime: 9484
+lastUpdated: 2021-10-13T13:43:31.869Z
 startTime: Thu Nov 19 2020 01:19:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
